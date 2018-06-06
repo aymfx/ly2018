@@ -1,0 +1,7 @@
+{
+  "name": "My Manifest",
+  "/activity/demo/index.js": "//activity/demo/index.bundle.a42aae.js",
+  "/h5/src/main.js": "//h5/src/main.bundle.a42aae.js",
+  "/activity/demo/index.html": "//activity/demo/index.html",
+  "/h5/index.html": "//h5/index.html"
+}
