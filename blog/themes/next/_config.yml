@@ -97,6 +97,7 @@ menu:
   photo: /photo/ || camera
   archives: /archives/ || archive
   about: /about/ || user
+  collection : /collection/ || pencil
   #categories: /categories/ || th
   #schedule: /schedule/ || calendar
   #sitemap: /sitemap.xml || sitemap
