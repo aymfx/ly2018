@@ -1,2 +1,3 @@
+"use strict";
 var idDone = false;
-console.log(idDone);
+idDone = true;

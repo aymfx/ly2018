@@ -1,3 +1,3 @@
 let idDone : boolean = false;
 
-console.log(idDone)
+idDone = true
