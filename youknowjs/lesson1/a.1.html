@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+
+<body>
+    <script>
+        var a = 12;
+
+        function add() {
+            var a = 11;
+            function s() {
+                var a = 13;
+                console.log(a, window.a)
+            }
+            s();
+        }
+        add();    
+    </script>
+</body>
+
+</html>
